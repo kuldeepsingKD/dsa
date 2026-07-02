@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kuldeepsingKD/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kuldeepsingKD/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -20,15 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kuldeepsingKD/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kuldeepsingKD/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Sorting
 |  |
 | ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Prefix Sum
 |  |
