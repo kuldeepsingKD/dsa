@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kuldeepsingKD/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0848-shifting-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kuldeepsingKD/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kuldeepsingKD/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kuldeepsingKD/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kuldeepsingKD/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kuldeepsingKD/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kuldeepsingKD/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kuldeepsingKD/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
