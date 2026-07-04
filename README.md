@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kuldeepsingKD/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kuldeepsingKD/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -46,18 +48,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/kuldeepsingKD/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0848-shifting-letters) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Hash Table
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## String
 |  |
 | ------- |
@@ -132,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepsingKD/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
