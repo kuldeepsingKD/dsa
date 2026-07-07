@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kuldeepsingKD/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kuldeepsingKD/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1110-delete-nodes-and-return-forest](https://github.com/kuldeepsingKD/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1288-remove-covered-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kuldeepsingKD/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1110-delete-nodes-and-return-forest](https://github.com/kuldeepsingKD/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## String
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1110-delete-nodes-and-return-forest](https://github.com/kuldeepsingKD/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kuldeepsingKD/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
@@ -155,8 +158,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/kuldeepsingKD/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/kuldeepsingKD/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
