@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepsingKD/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0222-count-complete-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kuldeepsingKD/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kuldeepsingKD/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kuldeepsingKD/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0623-add-one-row-to-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0623-add-one-row-to-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kuldeepsingKD/dsa/tree/master/1110-delete-nodes-and-return-forest) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0623-add-one-row-to-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0623-add-one-row-to-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kuldeepsingKD/dsa/tree/master/1110-delete-nodes-and-return-forest) |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0113-path-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
