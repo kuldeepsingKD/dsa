@@ -146,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kuldeepsingKD/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
