@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kuldeepsingKD/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kuldeepsingKD/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kuldeepsingKD/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kuldeepsingKD/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kuldeepsingKD/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kuldeepsingKD/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kuldeepsingKD/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
