@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kuldeepsingKD/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kuldeepsingKD/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kuldeepsingKD/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kuldeepsingKD/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -251,8 +257,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/0222-count-complete-tree-nodes) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
 | ------- |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
