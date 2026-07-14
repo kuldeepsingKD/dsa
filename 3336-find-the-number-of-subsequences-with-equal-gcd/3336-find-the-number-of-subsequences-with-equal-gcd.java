@@ -46,6 +46,6 @@ class Solution {
         }
 
         int result = solve(0, 0, 0, nums) ;
-        return (result + MOD) % MOD;
+        return (result ) % MOD;
     }
 }
