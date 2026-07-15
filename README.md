@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kuldeepsingKD/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kuldeepsingKD/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kuldeepsingKD/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kuldeepsingKD/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kuldeepsingKD/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kuldeepsingKD/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kuldeepsingKD/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
