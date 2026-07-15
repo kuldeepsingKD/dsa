@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0520-detect-capital](https://github.com/kuldeepsingKD/dsa/tree/master/0520-detect-capital) |
 | [0848-shifting-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0848-shifting-letters) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/kuldeepsingKD/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/kuldeepsingKD/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/kuldeepsingKD/dsa/tree/master/0872-leaf-similar-trees) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/kuldeepsingKD/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kuldeepsingKD/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/kuldeepsingKD/dsa/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/kuldeepsingKD/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kuldeepsingKD/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/kuldeepsingKD/dsa/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/kuldeepsingKD/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1110-delete-nodes-and-return-forest](https://github.com/kuldeepsingKD/dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0113-path-sum-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/kuldeepsingKD/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Bit Manipulation
 |  |
 | ------- |
