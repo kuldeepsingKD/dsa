@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepsingKD/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0633-sum-of-square-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kuldeepsingKD/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kuldeepsingKD/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kuldeepsingKD/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0633-sum-of-square-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kuldeepsingKD/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kuldeepsingKD/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kuldeepsingKD/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0633-sum-of-square-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
