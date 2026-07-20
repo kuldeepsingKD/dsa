@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/kuldeepsingKD/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kuldeepsingKD/dsa/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kuldeepsingKD/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kuldeepsingKD/dsa/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kuldeepsingKD/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kuldeepsingKD/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -359,5 +361,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kuldeepsingKD/dsa/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
