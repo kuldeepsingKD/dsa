@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kuldeepsingKD/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kuldeepsingKD/dsa/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/kuldeepsingKD/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kuldeepsingKD/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/kuldeepsingKD/dsa/tree/master/0096-unique-binary-search-trees) |
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kuldeepsingKD/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kuldeepsingKD/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
