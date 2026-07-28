@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0414-third-maximum-number](https://github.com/kuldeepsingKD/dsa/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0848-shifting-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kuldeepsingKD/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kuldeepsingKD/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0633-sum-of-square-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kuldeepsingKD/dsa/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kuldeepsingKD/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kuldeepsingKD/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kuldeepsingKD/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
