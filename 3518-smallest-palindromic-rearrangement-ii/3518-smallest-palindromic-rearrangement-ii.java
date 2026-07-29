@@ -1,60 +1,99 @@
 class Solution {
-    private long nCr(int n, int r, int k ){
-        long res = 1;
-        r = Math.min(r, n-r);
-        for(int i =1; i <= r; i++) {
-            res = res *(n-i+1)/i;
-            if(res >= k) return k + 1;
+      long nCr(int n, int r, int k) {
+        //nCr == nC(n-r)
+        //5C3 == 5C2
+        //5C2 == 5C(5-2) = 5C3
+        r = Math.min(r, n - r); //nCr == nC(n-r)
 
+        long result = 1;
+
+        for (int i = 1; i <= r; i++) { //O(log2(k))
+            result = result * (n - r + i) / i; //result is becoming twice
+
+            if (result >= k)
+                return k;
         }
 
-        return res;
+        return result;
     }
-    private long ways(int n, int[] f, int k) {
-        long total = 1;
-        for(int i=0; i<26; i++) {
-            total *= nCr(n, f[i], k);
-            if(total > k) return k+1;
-            n -= f[i];
-        }
-        return total;
-    }
+
     public String smallestPalindrome(String s, int k) {
         int n = s.length();
-        int len = n/2;
-        int[] f = new int[26];
-        for(int i=0; i<n; i++) f[s.charAt(i) - 'a']++;
+        char mid = ' ';
 
-        char[] str = new char[n];
-        for(int i=0; i<26; i++) {
-            if(f[i] % 2 == 1) str[n/2] = (char) ('a'+ i);
-            f[i] /= 2;
+
+        if(n%2 == 1){
+            mid = s.charAt(n/2);
         }
 
-        long count  = ways(len, f, k);
+        int[] count = new int[26];
 
-        if(count < k) return "";
+        for(int i=0; i <n; i++) {
+            if(n%2 == 1 && i == n/2) continue;
+            count[s.charAt(i) - 'a']++;
+        }
 
-        for(int idx = 0; idx < len; idx++) {
-            for(int i=0; i<26; i++) {
-                if(f[i] == 0) continue;
-                f[i]--;
-                long possible = ways(len-idx-1, f, k);
-                if(possible >= k) {
-                    str[idx] = (char)('a'+i);
-                    break;
-                }else{
-                    k -= possible;
-                    f[i]++;
+        for(int i=0; i<26; i++) {
+            count[i] /= 2;
+        }
+
+        StringBuilder halfResult = new StringBuilder();
+        int half = n/2;
+
+        for(int i=0; i<half; i++) {
+            boolean placedCharacter = false;
+
+            for(int j = 0; j < 26; j++) {
+                if(count[j] > 0) {
+                    count[j] -= 1;
+
+
+                    long ways = 1;
+                    int letters = 0;
+
+                    for(int c = 0; c < 26; c++){
+                        letters += count[c];
+                
+                    }
+
+                     for(int c=0; c<26; c++) {
+                        if(count[c] > 0) {
+                            ways *= nCr(letters, count[c], k);
+                            letters -= count[c];
+                        }
+
+                        if(ways >= k) {
+                            break;
+                        }
+
+                     }
+
+                     if(ways >= k) {
+                        halfResult.append((char) (j + 'a'));
+                        placedCharacter = true;
+                        break;
+                     }
+
+                     k -= ways;
+                     count[j] += 1;
                 }
             }
+            if(placedCharacter == false) {
+                return "";
+            }
+        
+            
         }
 
-        for(int i = 0; i < len; i++) {
-            str[n-i-1] = str[i];
+        StringBuilder rev = new StringBuilder(halfResult);
+        rev.reverse();
+
+        if(mid != ' ') {
+            halfResult.append(mid);
         }
 
-        return String.valueOf(str);
+        return halfResult.toString() + rev.toString();
+
 
     }
 }
