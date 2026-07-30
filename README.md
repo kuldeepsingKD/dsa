@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kuldeepsingKD/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kuldeepsingKD/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kuldeepsingKD/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2560-house-robber-iv](https://github.com/kuldeepsingKD/dsa/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/kuldeepsingKD/dsa/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/kuldeepsingKD/dsa/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kuldeepsingKD/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kuldeepsingKD/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kuldeepsingKD/dsa/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kuldeepsingKD/dsa/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
