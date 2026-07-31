@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/kuldeepsingKD/dsa/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kuldeepsingKD/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kuldeepsingKD/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3449-maximize-the-minimum-game-score](https://github.com/kuldeepsingKD/dsa/tree/master/3449-maximize-the-minimum-game-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kuldeepsingKD/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kuldeepsingKD/dsa/tree/master/3536-maximum-product-of-two-digits) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kuldeepsingKD/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kuldeepsingKD/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kuldeepsingKD/dsa/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kuldeepsingKD/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/kuldeepsingKD/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kuldeepsingKD/dsa/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
