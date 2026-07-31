@@ -1,23 +1,24 @@
 class Solution {
     public int minimumPushes(String word) {
-        int [] mp = new int[26];
-        for(char ch : word.toCharArray()){
-            mp[ch - 'a']++;
-        }
-         Integer[] mpInteger = Arrays.stream(mp).boxed().toArray(Integer[]::new);
-        Arrays.sort(mpInteger, Comparator.reverseOrder());
+        
+        int[] freq = new int[26];
+        int c = 0;
+        int ans = 0;
 
-
-        int result = 0;
-
-        for(int i =0; i<26; i++){
-            int freq = mpInteger[i];
-            int press = i/8 +1;
-            result += freq *press; 
+        for (char ch : word.toCharArray()) {
+            freq[ch - 'a']++;
         }
 
-        return result;
-        
-        
+        Arrays.sort(freq);
+
+        for (int i = 25; i >= 0; i--) {
+            if (freq[i] == 0)
+                break;
+
+            ans += freq[i] * (c / 8 + 1);
+            c++;
+        }
+
+        return ans;
     }
 }
