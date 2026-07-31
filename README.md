@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kuldeepsingKD/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/kuldeepsingKD/dsa/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2126-destroying-asteroids](https://github.com/kuldeepsingKD/dsa/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kuldeepsingKD/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kuldeepsingKD/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kuldeepsingKD/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2126-destroying-asteroids](https://github.com/kuldeepsingKD/dsa/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kuldeepsingKD/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kuldeepsingKD/dsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/kuldeepsingKD/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kuldeepsingKD/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/kuldeepsingKD/dsa/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2126-destroying-asteroids](https://github.com/kuldeepsingKD/dsa/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kuldeepsingKD/dsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
