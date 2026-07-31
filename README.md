@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kuldeepsingKD/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kuldeepsingKD/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kuldeepsingKD/dsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kuldeepsingKD/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kuldeepsingKD/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kuldeepsingKD/dsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1488-avoid-flood-in-the-city](https://github.com/kuldeepsingKD/dsa/tree/master/1488-avoid-flood-in-the-city) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kuldeepsingKD/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kuldeepsingKD/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/kuldeepsingKD/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kuldeepsingKD/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kuldeepsingKD/dsa/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
