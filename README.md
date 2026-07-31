@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/kuldeepsingKD/dsa/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kuldeepsingKD/dsa/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/kuldeepsingKD/dsa/tree/master/0991-broken-calculator) |
+| [1323-maximum-69-number](https://github.com/kuldeepsingKD/dsa/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/kuldeepsingKD/dsa/tree/master/1328-break-a-palindrome) |
 | [1488-avoid-flood-in-the-city](https://github.com/kuldeepsingKD/dsa/tree/master/1488-avoid-flood-in-the-city) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kuldeepsingKD/dsa/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/kuldeepsingKD/dsa/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/kuldeepsingKD/dsa/tree/master/0836-rectangle-overlap) |
 | [0991-broken-calculator](https://github.com/kuldeepsingKD/dsa/tree/master/0991-broken-calculator) |
+| [1323-maximum-69-number](https://github.com/kuldeepsingKD/dsa/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kuldeepsingKD/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kuldeepsingKD/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
