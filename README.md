@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/kuldeepsingKD/dsa/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kuldeepsingKD/dsa/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/kuldeepsingKD/dsa/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/kuldeepsingKD/dsa/tree/master/1328-break-a-palindrome) |
 | [1488-avoid-flood-in-the-city](https://github.com/kuldeepsingKD/dsa/tree/master/1488-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kuldeepsingKD/dsa/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kuldeepsingKD/dsa/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0754-reach-a-number](https://github.com/kuldeepsingKD/dsa/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/kuldeepsingKD/dsa/tree/master/0836-rectangle-overlap) |
+| [0991-broken-calculator](https://github.com/kuldeepsingKD/dsa/tree/master/0991-broken-calculator) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kuldeepsingKD/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kuldeepsingKD/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
