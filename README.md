@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0848-shifting-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kuldeepsingKD/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/kuldeepsingKD/dsa/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/kuldeepsingKD/dsa/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kuldeepsingKD/dsa/tree/master/0948-bag-of-tokens) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kuldeepsingKD/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/kuldeepsingKD/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/kuldeepsingKD/dsa/tree/master/0486-predict-the-winner) |
 | [0808-soup-servings](https://github.com/kuldeepsingKD/dsa/tree/master/0808-soup-servings) |
+| [0877-stone-game](https://github.com/kuldeepsingKD/dsa/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kuldeepsingKD/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/kuldeepsingKD/dsa/tree/master/0754-reach-a-number) |
 | [0808-soup-servings](https://github.com/kuldeepsingKD/dsa/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/kuldeepsingKD/dsa/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/kuldeepsingKD/dsa/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/kuldeepsingKD/dsa/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/kuldeepsingKD/dsa/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kuldeepsingKD/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kuldeepsingKD/dsa/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kuldeepsingKD/dsa/tree/master/0877-stone-game) |
 ## Probability and Statistics
 |  |
 | ------- |
