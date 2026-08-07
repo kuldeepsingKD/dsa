@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepsingKD/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0633-sum-of-square-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kuldeepsingKD/dsa/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kuldeepsingKD/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0383-ransom-note](https://github.com/kuldeepsingKD/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0652-find-duplicate-subtrees](https://github.com/kuldeepsingKD/dsa/tree/master/0652-find-duplicate-subtrees) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1361-validate-binary-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kuldeepsingKD/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Math
 |  |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Two Pointers
 |  |
@@ -602,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/kuldeepsingKD/dsa/tree/master/0808-soup-servings) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
