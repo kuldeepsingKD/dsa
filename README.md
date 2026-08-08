@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/kuldeepsingKD/dsa/tree/master/0721-accounts-merge) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0803-bricks-falling-when-hit](https://github.com/kuldeepsingKD/dsa/tree/master/0803-bricks-falling-when-hit) |
 | [0848-shifting-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kuldeepsingKD/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/kuldeepsingKD/dsa/tree/master/0877-stone-game) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0721-accounts-merge](https://github.com/kuldeepsingKD/dsa/tree/master/0721-accounts-merge) |
+| [0803-bricks-falling-when-hit](https://github.com/kuldeepsingKD/dsa/tree/master/0803-bricks-falling-when-hit) |
 | [1361-validate-binary-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kuldeepsingKD/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0064-minimum-path-sum) |
+| [0803-bricks-falling-when-hit](https://github.com/kuldeepsingKD/dsa/tree/master/0803-bricks-falling-when-hit) |
 | [1260-shift-2d-grid](https://github.com/kuldeepsingKD/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
