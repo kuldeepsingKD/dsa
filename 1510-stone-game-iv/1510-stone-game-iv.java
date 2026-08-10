@@ -10,7 +10,7 @@ class Solution {
 
                 if(!dp[stones-sq]){
                     dp[stones] = true;
-                    // break;
+                    break;
                 }
             }
 
