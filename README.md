@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kuldeepsingKD/dsa/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kuldeepsingKD/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2560-house-robber-iv](https://github.com/kuldeepsingKD/dsa/tree/master/2560-house-robber-iv) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/kuldeepsingKD/dsa/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kuldeepsingKD/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kuldeepsingKD/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kuldeepsingKD/dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -638,8 +641,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
