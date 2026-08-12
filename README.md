@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/kuldeepsingKD/dsa/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/kuldeepsingKD/dsa/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/kuldeepsingKD/dsa/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/kuldeepsingKD/dsa/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/kuldeepsingKD/dsa/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/kuldeepsingKD/dsa/tree/master/0881-boats-to-save-people) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0383-ransom-note](https://github.com/kuldeepsingKD/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0652-find-duplicate-subtrees](https://github.com/kuldeepsingKD/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/kuldeepsingKD/dsa/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
