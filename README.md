@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepsingKD/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuldeepsingKD/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/kuldeepsingKD/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kuldeepsingKD/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepsingKD/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/kuldeepsingKD/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/kuldeepsingKD/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0803-bricks-falling-when-hit](https://github.com/kuldeepsingKD/dsa/tree/master/0803-bricks-falling-when-hit) |
 | [1260-shift-2d-grid](https://github.com/kuldeepsingKD/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
