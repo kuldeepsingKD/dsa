@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/kuldeepsingKD/dsa/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kuldeepsingKD/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kuldeepsingKD/dsa/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/kuldeepsingKD/dsa/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/kuldeepsingKD/dsa/tree/master/2405-optimal-partition-of-string) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/kuldeepsingKD/dsa/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kuldeepsingKD/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kuldeepsingKD/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kuldeepsingKD/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
