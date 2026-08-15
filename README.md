@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0383-ransom-note](https://github.com/kuldeepsingKD/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/kuldeepsingKD/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0652-find-duplicate-subtrees](https://github.com/kuldeepsingKD/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/kuldeepsingKD/dsa/tree/master/0721-accounts-merge) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kuldeepsingKD/dsa/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kuldeepsingKD/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/kuldeepsingKD/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0520-detect-capital](https://github.com/kuldeepsingKD/dsa/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/kuldeepsingKD/dsa/tree/master/0721-accounts-merge) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0112-path-sum) |
+| [0433-minimum-genetic-mutation](https://github.com/kuldeepsingKD/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/kuldeepsingKD/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kuldeepsingKD/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0623-add-one-row-to-tree) |
@@ -676,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/kuldeepsingKD/dsa/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
