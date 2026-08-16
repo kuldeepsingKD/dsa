@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/kuldeepsingKD/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kuldeepsingKD/dsa/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kuldeepsingKD/dsa/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
 | [1833-maximum-ice-cream-bars](https://github.com/kuldeepsingKD/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kuldeepsingKD/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kuldeepsingKD/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kuldeepsingKD/dsa/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kuldeepsingKD/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2560-house-robber-iv](https://github.com/kuldeepsingKD/dsa/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/kuldeepsingKD/dsa/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kuldeepsingKD/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kuldeepsingKD/dsa/tree/master/2029-stone-game-ix) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
 | [2029-stone-game-ix](https://github.com/kuldeepsingKD/dsa/tree/master/2029-stone-game-ix) |
 ## Probability and Statistics
 |  |
@@ -671,12 +675,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
 | [2029-stone-game-ix](https://github.com/kuldeepsingKD/dsa/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
+| [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
 | [2029-stone-game-ix](https://github.com/kuldeepsingKD/dsa/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
