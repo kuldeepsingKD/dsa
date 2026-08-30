@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/kuldeepsingKD/dsa/tree/master/3310-remove-methods-from-project) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kuldeepsingKD/dsa/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/kuldeepsingKD/dsa/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3310-remove-methods-from-project](https://github.com/kuldeepsingKD/dsa/tree/master/3310-remove-methods-from-project) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kuldeepsingKD/dsa/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kuldeepsingKD/dsa/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kuldeepsingKD/dsa/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
