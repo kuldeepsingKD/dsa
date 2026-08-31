@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/kuldeepsingKD/dsa/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kuldeepsingKD/dsa/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/kuldeepsingKD/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1915-number-of-wonderful-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/1915-number-of-wonderful-substrings) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
 | [2405-optimal-partition-of-string](https://github.com/kuldeepsingKD/dsa/tree/master/2405-optimal-partition-of-string) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1609-even-odd-tree) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/kuldeepsingKD/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kuldeepsingKD/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kuldeepsingKD/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/kuldeepsingKD/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kuldeepsingKD/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kuldeepsingKD/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kuldeepsingKD/dsa/tree/master/1291-sequential-digits) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/kuldeepsingKD/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kuldeepsingKD/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
