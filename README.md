@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kuldeepsingKD/dsa/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/kuldeepsingKD/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/kuldeepsingKD/dsa/tree/master/0721-accounts-merge) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0803-bricks-falling-when-hit](https://github.com/kuldeepsingKD/dsa/tree/master/0803-bricks-falling-when-hit) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kuldeepsingKD/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kuldeepsingKD/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2653-sliding-subarray-beauty](https://github.com/kuldeepsingKD/dsa/tree/master/2653-sliding-subarray-beauty) |
