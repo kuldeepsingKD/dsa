@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/kuldeepsingKD/dsa/tree/master/0721-accounts-merge) |
 | [0848-shifting-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0848-shifting-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kuldeepsingKD/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1041-robot-bounded-in-circle](https://github.com/kuldeepsingKD/dsa/tree/master/1041-robot-bounded-in-circle) |
 | [1328-break-a-palindrome](https://github.com/kuldeepsingKD/dsa/tree/master/1328-break-a-palindrome) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0518-coin-change-ii) |
 | [0808-soup-servings](https://github.com/kuldeepsingKD/dsa/tree/master/0808-soup-servings) |
 | [0877-stone-game](https://github.com/kuldeepsingKD/dsa/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kuldeepsingKD/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
