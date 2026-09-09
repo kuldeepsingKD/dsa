@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kuldeepsingKD/dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/kuldeepsingKD/dsa/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/kuldeepsingKD/dsa/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kuldeepsingKD/dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/kuldeepsingKD/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kuldeepsingKD/dsa/tree/master/0496-next-greater-element-i) |
 | [0652-find-duplicate-subtrees](https://github.com/kuldeepsingKD/dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/kuldeepsingKD/dsa/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -447,10 +449,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kuldeepsingKD/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/kuldeepsingKD/dsa/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/kuldeepsingKD/dsa/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
