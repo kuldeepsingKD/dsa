@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/kuldeepsingKD/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/kuldeepsingKD/dsa/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/kuldeepsingKD/dsa/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/kuldeepsingKD/dsa/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/kuldeepsingKD/dsa/tree/master/0948-bag-of-tokens) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kuldeepsingKD/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kuldeepsingKD/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kuldeepsingKD/dsa/tree/master/0721-accounts-merge) |
 | [0825-friends-of-appropriate-ages](https://github.com/kuldeepsingKD/dsa/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/kuldeepsingKD/dsa/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/kuldeepsingKD/dsa/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/kuldeepsingKD/dsa/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0680-valid-palindrome-ii) |
 | [0825-friends-of-appropriate-ages](https://github.com/kuldeepsingKD/dsa/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/kuldeepsingKD/dsa/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/kuldeepsingKD/dsa/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/kuldeepsingKD/dsa/tree/master/0948-bag-of-tokens) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kuldeepsingKD/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kuldeepsingKD/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
