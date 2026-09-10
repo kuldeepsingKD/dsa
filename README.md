@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kuldeepsingKD/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kuldeepsingKD/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3356-zero-array-transformation-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3356-zero-array-transformation-ii) |
 | [3449-maximize-the-minimum-game-score](https://github.com/kuldeepsingKD/dsa/tree/master/3449-maximize-the-minimum-game-score) |
 | [3453-separate-squares-i](https://github.com/kuldeepsingKD/dsa/tree/master/3453-separate-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kuldeepsingKD/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
+| [3356-zero-array-transformation-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3356-zero-array-transformation-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/kuldeepsingKD/dsa/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3449-maximize-the-minimum-game-score](https://github.com/kuldeepsingKD/dsa/tree/master/3449-maximize-the-minimum-game-score) |
 | [3453-separate-squares-i](https://github.com/kuldeepsingKD/dsa/tree/master/3453-separate-squares-i) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
+| [3356-zero-array-transformation-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3356-zero-array-transformation-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kuldeepsingKD/dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3904-smallest-stable-index-ii) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/kuldeepsingKD/dsa/tree/master/0948-bag-of-tokens) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kuldeepsingKD/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kuldeepsingKD/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3356-zero-array-transformation-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3356-zero-array-transformation-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
