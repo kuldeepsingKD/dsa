@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kuldeepsingKD/dsa/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/kuldeepsingKD/dsa/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3356-zero-array-transformation-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3449-maximize-the-minimum-game-score](https://github.com/kuldeepsingKD/dsa/tree/master/3449-maximize-the-minimum-game-score) |
 | [3453-separate-squares-i](https://github.com/kuldeepsingKD/dsa/tree/master/3453-separate-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/3483-unique-3-digit-even-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kuldeepsingKD/dsa/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3356-zero-array-transformation-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/kuldeepsingKD/dsa/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3449-maximize-the-minimum-game-score](https://github.com/kuldeepsingKD/dsa/tree/master/3449-maximize-the-minimum-game-score) |
 | [3453-separate-squares-i](https://github.com/kuldeepsingKD/dsa/tree/master/3453-separate-squares-i) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kuldeepsingKD/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kuldeepsingKD/dsa/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kuldeepsingKD/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kuldeepsingKD/dsa/tree/master/3536-maximum-product-of-two-digits) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kuldeepsingKD/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kuldeepsingKD/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
