@@ -35,41 +35,6 @@ class Solution {
         return a.size() < b.size();
     }
 
-    Node solve(int i, int k) {
-        if (k == 0 || i >= n)
-            return new Node();
-
-        if (t[i][k].score != -1)
-            return t[i][k];
-
-        int weight = intervals[i][2];
-        int idx    = intervals[i][3];
-        int j      = nextIdx[i];
-
-        //skip interval i
-        Node skip = solve(i + 1, k);
-
-        //take interval i
-        Node temp = solve(j, k - 1);
-        Node take = new Node();
-        take.score = temp.score + weight;
-        take.idxs  = new ArrayList<>(temp.idxs);
-        take.idxs.add(idx);
-        Collections.sort(take.idxs);
-
-        Node result;
-        if (skip.score > take.score) {
-            result = skip;
-        } else if (skip.score < take.score) {
-            result = take;
-        } else {
-            result = isLexSmaller(skip.idxs, take.idxs) ? skip : take;
-        }
-
-        t[i][k] = result;
-        return result;
-    }
-
     public int[] maximumWeight(List<List<Integer>> intervalsList) {
         n = intervalsList.size();
 
@@ -100,7 +65,35 @@ class Solution {
             for (int k = 0; k <= K; k++)
                 t[i][k] = new Node();
 
-        Node res = solve(0, K);
+        for (int i = n - 1; i >= 0; i--) {
+            int weight = intervals[i][2];
+            int idx    = intervals[i][3];
+            int j      = nextIdx[i];
+
+            for (int k = 1; k <= K; k++) {
+                Node skip = t[i + 1][k];
+                Node temp = t[j][k - 1];
+
+                Node take = new Node();
+                take.score = temp.score + weight;
+                take.idxs  = new ArrayList<>(temp.idxs);
+                take.idxs.add(idx);
+                Collections.sort(take.idxs);
+
+                Node result;
+                if (skip.score > take.score) {
+                    result = skip;
+                } else if (skip.score < take.score) {
+                    result = take;
+                } else {
+                    result = isLexSmaller(skip.idxs, take.idxs) ? skip : take;
+                }
+
+                t[i][k] = result;
+            }
+        }
+
+        Node res = t[0][K];
         int[] ans = new int[res.idxs.size()];
         for (int i = 0; i < ans.length; i++)
             ans[i] = res.idxs.get(i);
