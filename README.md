@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/kuldeepsingKD/dsa/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/kuldeepsingKD/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1288-remove-covered-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/1288-remove-covered-intervals) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kuldeepsingKD/dsa/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/kuldeepsingKD/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kuldeepsingKD/dsa/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1361-validate-binary-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1609-even-odd-tree) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/kuldeepsingKD/dsa/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/kuldeepsingKD/dsa/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/kuldeepsingKD/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kuldeepsingKD/dsa/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kuldeepsingKD/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
