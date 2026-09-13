@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kuldeepsingKD/dsa/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kuldeepsingKD/dsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kuldeepsingKD/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kuldeepsingKD/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/kuldeepsingKD/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kuldeepsingKD/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kuldeepsingKD/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kuldeepsingKD/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kuldeepsingKD/dsa/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kuldeepsingKD/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/kuldeepsingKD/dsa/tree/master/1488-avoid-flood-in-the-city) |
 | [2054-two-best-non-overlapping-events](https://github.com/kuldeepsingKD/dsa/tree/master/2054-two-best-non-overlapping-events) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kuldeepsingKD/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kuldeepsingKD/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kuldeepsingKD/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kuldeepsingKD/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kuldeepsingKD/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/1361-validate-binary-tree-nodes) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kuldeepsingKD/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kuldeepsingKD/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kuldeepsingKD/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [2924-find-champion-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2924-find-champion-ii) |
@@ -478,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kuldeepsingKD/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kuldeepsingKD/dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/kuldeepsingKD/dsa/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -843,4 +849,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/kuldeepsingKD/dsa/tree/master/1931-painting-a-grid-with-three-different-colors) |
+## 0-1 BFS
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kuldeepsingKD/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kuldeepsingKD/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
