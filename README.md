@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kuldeepsingKD/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuldeepsingKD/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kuldeepsingKD/dsa/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/kuldeepsingKD/dsa/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kuldeepsingKD/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kuldeepsingKD/dsa/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kuldeepsingKD/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/kuldeepsingKD/dsa/tree/master/0766-toeplitz-matrix) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kuldeepsingKD/dsa/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/kuldeepsingKD/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0223-rectangle-area](https://github.com/kuldeepsingKD/dsa/tree/master/0223-rectangle-area) |
 | [0486-predict-the-winner](https://github.com/kuldeepsingKD/dsa/tree/master/0486-predict-the-winner) |
