@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0848-shifting-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kuldeepsingKD/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1915-number-of-wonderful-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/1915-number-of-wonderful-substrings) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kuldeepsingKD/dsa/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kuldeepsingKD/dsa/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kuldeepsingKD/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/kuldeepsingKD/dsa/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2054-two-best-non-overlapping-events](https://github.com/kuldeepsingKD/dsa/tree/master/2054-two-best-non-overlapping-events) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kuldeepsingKD/dsa/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kuldeepsingKD/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kuldeepsingKD/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kuldeepsingKD/dsa/tree/master/2029-stone-game-ix) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kuldeepsingKD/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
