@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kuldeepsingKD/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/kuldeepsingKD/dsa/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Tree
 |  |
 | ------- |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kuldeepsingKD/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3881-direction-assignments-with-exactly-k-visible-people](https://github.com/kuldeepsingKD/dsa/tree/master/3881-direction-assignments-with-exactly-k-visible-people) |
 ## Counting
 |  |
 | ------- |
