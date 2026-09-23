@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/kuldeepsingKD/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/kuldeepsingKD/dsa/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kuldeepsingKD/dsa/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kuldeepsingKD/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kuldeepsingKD/dsa/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
 | [1833-maximum-ice-cream-bars](https://github.com/kuldeepsingKD/dsa/tree/master/1833-maximum-ice-cream-bars) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kuldeepsingKD/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/kuldeepsingKD/dsa/tree/master/1488-avoid-flood-in-the-city) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kuldeepsingKD/dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kuldeepsingKD/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kuldeepsingKD/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/kuldeepsingKD/dsa/tree/master/2054-two-best-non-overlapping-events) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kuldeepsingKD/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kuldeepsingKD/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1915-number-of-wonderful-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/1915-number-of-wonderful-substrings) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kuldeepsingKD/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/kuldeepsingKD/dsa/tree/master/1488-avoid-flood-in-the-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kuldeepsingKD/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kuldeepsingKD/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1915-number-of-wonderful-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/1915-number-of-wonderful-substrings) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kuldeepsingKD/dsa/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kuldeepsingKD/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kuldeepsingKD/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2653-sliding-subarray-beauty](https://github.com/kuldeepsingKD/dsa/tree/master/2653-sliding-subarray-beauty) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kuldeepsingKD/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kuldeepsingKD/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
