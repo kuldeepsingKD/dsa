@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/kuldeepsingKD/dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kuldeepsingKD/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kuldeepsingKD/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
