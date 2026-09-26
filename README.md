@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/kuldeepsingKD/dsa/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kuldeepsingKD/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/kuldeepsingKD/dsa/tree/master/0038-count-and-say) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/kuldeepsingKD/dsa/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/kuldeepsingKD/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/kuldeepsingKD/dsa/tree/master/0115-distinct-subsequences) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/kuldeepsingKD/dsa/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kuldeepsingKD/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0486-predict-the-winner](https://github.com/kuldeepsingKD/dsa/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/3483-unique-3-digit-even-numbers) |
