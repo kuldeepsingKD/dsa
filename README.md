@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kuldeepsingKD/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/kuldeepsingKD/dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/kuldeepsingKD/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kuldeepsingKD/dsa/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-number-of-wonderful-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/1915-number-of-wonderful-substrings) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/kuldeepsingKD/dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kuldeepsingKD/dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kuldeepsingKD/dsa/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kuldeepsingKD/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1915-number-of-wonderful-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/1915-number-of-wonderful-substrings) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/kuldeepsingKD/dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/kuldeepsingKD/dsa/tree/master/2405-optimal-partition-of-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kuldeepsingKD/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
