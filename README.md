@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kuldeepsingKD/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/kuldeepsingKD/dsa/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0324-wiggle-sort-ii) |
+| [0372-super-pow](https://github.com/kuldeepsingKD/dsa/tree/master/0372-super-pow) |
 ## Ordered Set
 |  |
 | ------- |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kuldeepsingKD/dsa/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/kuldeepsingKD/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0223-rectangle-area](https://github.com/kuldeepsingKD/dsa/tree/master/0223-rectangle-area) |
+| [0372-super-pow](https://github.com/kuldeepsingKD/dsa/tree/master/0372-super-pow) |
 | [0486-predict-the-winner](https://github.com/kuldeepsingKD/dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/0633-sum-of-square-numbers) |
@@ -947,4 +949,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0494-target-sum) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/kuldeepsingKD/dsa/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/kuldeepsingKD/dsa/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
