@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuldeepsingKD/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kuldeepsingKD/dsa/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/kuldeepsingKD/dsa/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kuldeepsingKD/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1096-brace-expansion-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3878-count-good-subarrays](https://github.com/kuldeepsingKD/dsa/tree/master/3878-count-good-subarrays) |
 ## Monotonic Stack
 |  |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
