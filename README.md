@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kuldeepsingKD/dsa/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kuldeepsingKD/dsa/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/kuldeepsingKD/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0223-rectangle-area](https://github.com/kuldeepsingKD/dsa/tree/master/0223-rectangle-area) |
 | [0372-super-pow](https://github.com/kuldeepsingKD/dsa/tree/master/0372-super-pow) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kuldeepsingKD/dsa/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kuldeepsingKD/dsa/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/kuldeepsingKD/dsa/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/kuldeepsingKD/dsa/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
