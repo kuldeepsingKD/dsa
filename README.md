@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/kuldeepsingKD/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kuldeepsingKD/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1856-maximum-subarray-min-product](https://github.com/kuldeepsingKD/dsa/tree/master/1856-maximum-subarray-min-product) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kuldeepsingKD/dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kuldeepsingKD/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kuldeepsingKD/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kuldeepsingKD/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1856-maximum-subarray-min-product](https://github.com/kuldeepsingKD/dsa/tree/master/1856-maximum-subarray-min-product) |
 | [1915-number-of-wonderful-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/1915-number-of-wonderful-substrings) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kuldeepsingKD/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1856-maximum-subarray-min-product](https://github.com/kuldeepsingKD/dsa/tree/master/1856-maximum-subarray-min-product) |
 | [3878-count-good-subarrays](https://github.com/kuldeepsingKD/dsa/tree/master/3878-count-good-subarrays) |
 ## Monotonic Stack
 |  |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/kuldeepsingKD/dsa/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1856-maximum-subarray-min-product](https://github.com/kuldeepsingKD/dsa/tree/master/1856-maximum-subarray-min-product) |
 | [3878-count-good-subarrays](https://github.com/kuldeepsingKD/dsa/tree/master/3878-count-good-subarrays) |
 ## Dynamic Programming
 |  |
@@ -965,4 +969,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/kuldeepsingKD/dsa/tree/master/0372-super-pow) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/kuldeepsingKD/dsa/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
