@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kuldeepsingKD/dsa/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kuldeepsingKD/dsa/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/kuldeepsingKD/dsa/tree/master/0038-count-and-say) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kuldeepsingKD/dsa/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/kuldeepsingKD/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/kuldeepsingKD/dsa/tree/master/0115-distinct-subsequences) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0494-target-sum) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kuldeepsingKD/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -961,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kuldeepsingKD/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
