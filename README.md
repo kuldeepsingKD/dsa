@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3904-smallest-stable-index-ii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kuldeepsingKD/dsa/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/kuldeepsingKD/dsa/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/kuldeepsingKD/dsa/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kuldeepsingKD/dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3904-smallest-stable-index-ii) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Hash Table
 |  |
 | ------- |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Topological Sort
 |  |
 | ------- |
