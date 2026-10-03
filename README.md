@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3904-smallest-stable-index-ii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kuldeepsingKD/dsa/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/kuldeepsingKD/dsa/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/kuldeepsingKD/dsa/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kuldeepsingKD/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/kuldeepsingKD/dsa/tree/master/3731-find-missing-elements) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/kuldeepsingKD/dsa/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## String
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kuldeepsingKD/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kuldeepsingKD/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kuldeepsingKD/dsa/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/kuldeepsingKD/dsa/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Breadth-First Search
 |  |
 | ------- |
