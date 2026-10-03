@@ -1,57 +1,50 @@
 class Solution {
-    class Meeting{
-        int start;
-        int end;
-        int revenue;
-
-        Meeting(int start, int end, int revenue){
-            this.start = start;
-            this.end = end;
-            this.revenue = revenue;
-        }
-    }
-
-    class State{
-        int end;
-        long earning;
-
-        State(int end, long earning){
-            this.end = end;
-            this.earning = earning;
-        }
-    }
-
     public long maxEarnings(int[][] meetings) {
         int n = meetings.length;
-
-        Meeting[] arr = new Meeting[n];
-
-        for(int i=0;i<n;i++){
-            arr[i] = new Meeting(meetings[i][0], meetings[i][1], meetings[i][2]);
+        
+        // Step 1: Meetings ko start time ke basis par sort karo
+        Arrays.sort(meetings, (a, b) -> Integer.compare(a[0], b[0]));
+        
+        // f[i] store karega max profit from suffix i...n-1 
+        // jab current meeting sequence ki FIRST meeting NAHI hai.
+        long[] f = new long[n + 1];
+        long maxOverallEarnings = 0;
+        
+        // Step 2: Suffix DP lagao (Piche se shuru karte hue)
+        for (int i = n - 1; i >= 0; i--) {
+            long s_i = meetings[i][0];
+            long e_i = meetings[i][1];
+            long r_i = meetings[i][2];
+            
+            // Step 3: Binary Search se pehli aisi meeting 'j' dhoodho jiska start time >= e_i ho
+            int nextIdx = binarySearch(meetings, i + 1, e_i);
+            
+            // Case A: Agar yeh meeting sequence ki FIRST meeting NAHI hai (Middle ya Last hai)
+            long valAsNotFirst = Math.max(r_i + s_i, r_i + s_i - e_i + f[nextIdx]);
+            f[i] = Math.max(f[i + 1], valAsNotFirst);
+            
+            // Case B: Agar yeh meeting pure sequence ki FIRST meeting hai (ya fir Standalone hai)
+            long valAsFirst = Math.max(r_i, r_i - e_i + f[nextIdx]);
+            maxOverallEarnings = Math.max(maxOverallEarnings, valAsFirst);
         }
-
-        Arrays.sort(arr, (a, b) -> Integer. compare(a.start, b.start));
-
-        PriorityQueue<State> pq = new PriorityQueue<>((a, b)->Integer. compare(a.end, b.end));
-
-        long best = Long.MIN_VALUE;
-        long ans = 0;
-
-        for(Meeting cur:arr){
-            while(!pq.isEmpty() && pq.peek().end <= cur.start){
-                State state = pq.poll();
-                best = Math.max(best, state.earning-state.end);
+        
+        return maxOverallEarnings;
+    }
+    
+    // Helper function: Find first meeting index where start time >= targetEndTime
+    private int binarySearch(int[][] meetings, int start, long targetEndTime) {
+        int low = start;
+        int high = meetings.length;
+        int ans = meetings.length;
+        
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            if (meetings[mid][0] >= targetEndTime) {
+                ans = mid;
+                high = mid; // Aur peeche try karo
+            } else {
+                low = mid + 1;
             }
-
-            long curEarning = cur.revenue;
-
-            if(best != Long.MIN_VALUE){
-                curEarning = Math.max(curEarning, curEarning + cur.start + best);
-            }
-
-            ans = Math.max(ans, curEarning);
-
-            pq.offer(new State(cur.end, curEarning));
         }
         return ans;
     }
