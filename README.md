@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/kuldeepsingKD/dsa/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/kuldeepsingKD/dsa/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/kuldeepsingKD/dsa/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/kuldeepsingKD/dsa/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/kuldeepsingKD/dsa/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Greedy
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/kuldeepsingKD/dsa/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/kuldeepsingKD/dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/kuldeepsingKD/dsa/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/kuldeepsingKD/dsa/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Topological Sort
 |  |
 | ------- |
