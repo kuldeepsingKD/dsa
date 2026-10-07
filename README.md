@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kuldeepsingKD/dsa/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/kuldeepsingKD/dsa/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/kuldeepsingKD/dsa/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kuldeepsingKD/dsa/tree/master/0383-ransom-note) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/kuldeepsingKD/dsa/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/kuldeepsingKD/dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kuldeepsingKD/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/kuldeepsingKD/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0494-target-sum) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kuldeepsingKD/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1096-brace-expansion-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1096-brace-expansion-ii) |
