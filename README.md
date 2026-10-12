@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kuldeepsingKD/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kuldeepsingKD/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kuldeepsingKD/dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/kuldeepsingKD/dsa/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kuldeepsingKD/dsa/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/kuldeepsingKD/dsa/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kuldeepsingKD/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kuldeepsingKD/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/kuldeepsingKD/dsa/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kuldeepsingKD/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kuldeepsingKD/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1915-number-of-wonderful-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/1915-number-of-wonderful-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kuldeepsingKD/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/kuldeepsingKD/dsa/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kuldeepsingKD/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
