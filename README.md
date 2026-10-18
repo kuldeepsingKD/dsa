@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/kuldeepsingKD/dsa/tree/master/1488-avoid-flood-in-the-city) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kuldeepsingKD/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/kuldeepsingKD/dsa/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kuldeepsingKD/dsa/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kuldeepsingKD/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kuldeepsingKD/dsa/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/kuldeepsingKD/dsa/tree/master/0803-bricks-falling-when-hit) |
 | [1361-validate-binary-tree-nodes](https://github.com/kuldeepsingKD/dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kuldeepsingKD/dsa/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kuldeepsingKD/dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kuldeepsingKD/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kuldeepsingKD/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kuldeepsingKD/dsa/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kuldeepsingKD/dsa/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kuldeepsingKD/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kuldeepsingKD/dsa/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0324-wiggle-sort-ii) |
 | [0372-super-pow](https://github.com/kuldeepsingKD/dsa/tree/master/0372-super-pow) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Ordered Set
 |  |
 | ------- |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kuldeepsingKD/dsa/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kuldeepsingKD/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kuldeepsingKD/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -756,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kuldeepsingKD/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -792,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1609-even-odd-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kuldeepsingKD/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kuldeepsingKD/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -883,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kuldeepsingKD/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kuldeepsingKD/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -919,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kuldeepsingKD/dsa/tree/master/0096-unique-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
 |  |
 | ------- |
@@ -1068,4 +1077,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/kuldeepsingKD/dsa/tree/master/0164-maximum-gap) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
