@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kuldeepsingKD/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/kuldeepsingKD/dsa/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kuldeepsingKD/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/kuldeepsingKD/dsa/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kuldeepsingKD/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/kuldeepsingKD/dsa/tree/master/2054-two-best-non-overlapping-events) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kuldeepsingKD/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/kuldeepsingKD/dsa/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kuldeepsingKD/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kuldeepsingKD/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kuldeepsingKD/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2054-two-best-non-overlapping-events](https://github.com/kuldeepsingKD/dsa/tree/master/2054-two-best-non-overlapping-events) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/kuldeepsingKD/dsa/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kuldeepsingKD/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/kuldeepsingKD/dsa/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kuldeepsingKD/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
