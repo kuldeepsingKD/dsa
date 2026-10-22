@@ -1,59 +1,36 @@
 class Solution {
     public int minOperations(int[] nums) {
-        int n = nums.length;
-
-        int zeroIdx = -1;
-        for(int i = 0; i < n; i++) {
-            if(nums[i] == 0) {
-                zeroIdx = i;
-                break;
+        int n=nums.length;
+        if(n==1)return 0;
+        //check for inc
+        int dec=-1;
+        for(int i=1;i<n;i++){
+            if(nums[i]!=nums[i-1]+1){
+                if(dec!=-1){
+                    dec=n+1;
+                    break;
+                }
+                dec=i;
             }
         }
-
-        boolean isRightSorted = true;
-        for(int i = 0; i < n; i++) {
-            if(nums[(zeroIdx + i) % n] != i) {
-                isRightSorted = false;
-                break;
+        if(dec==-1)return 0;
+        if(dec<n)return Math.min(dec,2+(n-dec));
+        //check for dec
+        int inc=-1;
+        for(int i=1;i<n;i++){
+            if(nums[i]!=nums[i-1]-1){
+                if(inc!=-1){
+                    inc=n+1;
+                    break;
+                }
+                inc=i;
             }
         }
-
-        boolean isLeftSorted = true;
-        for(int i = 0; i < n; i++) {
-              int targetIdx = (zeroIdx - i % n + n) % n;
-            if(nums[targetIdx] != i) {
-                isLeftSorted = false;
-                break;
-            }
+        if(inc==-1)return 1;
+        if(inc<n){
+            return Math.min(inc,n-inc)+1;
         }
-
-        if(!isRightSorted && !isLeftSorted) {
-            return -1;
-
-        }
-
-        int minOps = Integer.MAX_VALUE;
-
-        if(isRightSorted) {
-            int path1 = zeroIdx;
-
-            int path2 =  2 + (n - zeroIdx); 
-           minOps = Math.min(minOps, Math.min(path1, path2));
-        }
-
-
-        if(isLeftSorted) {
-            int path3 = n - zeroIdx; 
-
-            int path4 = 1 + ((zeroIdx + 1) % n);
-
-            minOps = Math.min(minOps, Math.min(path3, path4));
-        }
-
-
-        return minOps;
-        
-
+        return -1;
 
     }
 }
