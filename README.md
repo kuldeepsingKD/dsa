@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/kuldeepsingKD/dsa/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/kuldeepsingKD/dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/kuldeepsingKD/dsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kuldeepsingKD/dsa/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/kuldeepsingKD/dsa/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
