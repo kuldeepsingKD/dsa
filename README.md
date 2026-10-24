@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/kuldeepsingKD/dsa/tree/master/2381-shifting-letters-ii) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/kuldeepsingKD/dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/kuldeepsingKD/dsa/tree/master/2405-optimal-partition-of-string) |
+| [2409-count-days-spent-together](https://github.com/kuldeepsingKD/dsa/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kuldeepsingKD/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kuldeepsingKD/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kuldeepsingKD/dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kuldeepsingKD/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kuldeepsingKD/dsa/tree/master/2029-stone-game-ix) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/kuldeepsingKD/dsa/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2409-count-days-spent-together](https://github.com/kuldeepsingKD/dsa/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kuldeepsingKD/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kuldeepsingKD/dsa/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kuldeepsingKD/dsa/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
