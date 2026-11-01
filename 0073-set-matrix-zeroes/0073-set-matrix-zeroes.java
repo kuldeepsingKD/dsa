@@ -1,32 +1,21 @@
 class Solution {
-    public void setZeroes(int[][] matrix) {
-        int m = matrix.length;
-        int n = matrix[0].length;
-
-        int[][] temp = new int[m][n];
-        for(int i = 0; i < m; i++) {
-            temp[i] = matrix[i].clone();
-        }
-
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
-                if(matrix[i][j] == 0) {
-
-
-                    for(int k = 0; k < n; k++) {
-                        temp[i][k] = 0;
-                    }
-
-                    for(int k = 0; k < m; k++) {
-                        temp[k][j] = 0;
-                    }
+    public void setZeroes(int[][] mat) {
+          int n=mat.length,m=mat[0].length;
+        boolean[] row=new boolean[n];
+        boolean[] col=new boolean[m];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(mat[i][j]==0){
+                    row[i]=true;
+                    col[j]=true;
                 }
             }
         }
-
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
-                matrix[i][j] = temp[i][j];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(row[i] || col[j] == true){
+                    mat[i][j]=0;
+                }
             }
         }
     }
