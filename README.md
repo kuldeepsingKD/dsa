@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/kuldeepsingKD/dsa/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/kuldeepsingKD/dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kuldeepsingKD/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3799-word-squares-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3799-word-squares-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kuldeepsingKD/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kuldeepsingKD/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kuldeepsingKD/dsa/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/kuldeepsingKD/dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3799-word-squares-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3799-word-squares-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/kuldeepsingKD/dsa/tree/master/3886-sum-of-sortable-integers) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/kuldeepsingKD/dsa/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3799-word-squares-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3799-word-squares-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/kuldeepsingKD/dsa/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1096-brace-expansion-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3799-word-squares-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3799-word-squares-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -928,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3799-word-squares-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3799-word-squares-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/kuldeepsingKD/dsa/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
