@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/kuldeepsingKD/dsa/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kuldeepsingKD/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/kuldeepsingKD/dsa/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kuldeepsingKD/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kuldeepsingKD/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kuldeepsingKD/dsa/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1690-stone-game-vii](https://github.com/kuldeepsingKD/dsa/tree/master/1690-stone-game-vii) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/kuldeepsingKD/dsa/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/kuldeepsingKD/dsa/tree/master/1488-avoid-flood-in-the-city) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kuldeepsingKD/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/kuldeepsingKD/dsa/tree/master/1882-process-tasks-using-servers) |
 | [2054-two-best-non-overlapping-events](https://github.com/kuldeepsingKD/dsa/tree/master/2054-two-best-non-overlapping-events) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kuldeepsingKD/dsa/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kuldeepsingKD/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kuldeepsingKD/dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Math
 |  |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/kuldeepsingKD/dsa/tree/master/1041-robot-bounded-in-circle) |
 | [1260-shift-2d-grid](https://github.com/kuldeepsingKD/dsa/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/kuldeepsingKD/dsa/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kuldeepsingKD/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kuldeepsingKD/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/kuldeepsingKD/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
