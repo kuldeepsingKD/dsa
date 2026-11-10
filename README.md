@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuldeepsingKD/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kuldeepsingKD/dsa/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/kuldeepsingKD/dsa/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kuldeepsingKD/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kuldeepsingKD/dsa/tree/master/0074-search-a-2d-matrix) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kuldeepsingKD/dsa/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/kuldeepsingKD/dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kuldeepsingKD/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kuldeepsingKD/dsa/tree/master/0074-search-a-2d-matrix) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/kuldeepsingKD/dsa/tree/master/0059-spiral-matrix-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/kuldeepsingKD/dsa/tree/master/1041-robot-bounded-in-circle) |
 | [1260-shift-2d-grid](https://github.com/kuldeepsingKD/dsa/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/kuldeepsingKD/dsa/tree/master/1535-find-the-winner-of-an-array-game) |
