@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kuldeepsingKD/dsa/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/kuldeepsingKD/dsa/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3356-zero-array-transformation-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3449-maximize-the-minimum-game-score](https://github.com/kuldeepsingKD/dsa/tree/master/3449-maximize-the-minimum-game-score) |
 | [3453-separate-squares-i](https://github.com/kuldeepsingKD/dsa/tree/master/3453-separate-squares-i) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kuldeepsingKD/dsa/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/kuldeepsingKD/dsa/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3356-zero-array-transformation-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kuldeepsingKD/dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3904-smallest-stable-index-ii) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kuldeepsingKD/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kuldeepsingKD/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kuldeepsingKD/dsa/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kuldeepsingKD/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/kuldeepsingKD/dsa/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Breadth-First Search
