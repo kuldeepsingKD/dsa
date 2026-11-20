@@ -1,65 +1,15 @@
 class Solution {
-    int n;
-    int[][] memo;
-
-     private int findMethod(int[] nums, int start, int target) {
-        int lo = start, hi = n; // search in [start, n)
-        while (lo < hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (nums[mid] < target) {
-                lo = mid + 1;
-            } else {
-                hi = mid;
-            }
-        }
-
-        if (lo < n && nums[lo] == target) {
-            return lo;
-        }
-
-        return -1;
-     } 
-
-    public int solve(int i, int inc, int[] nums) {
-
-        if(memo[i][inc] != -1) {
-            return memo[i][inc];
-        }
-
-        int currVal = nums[i] + inc;
-        int len = 1;
-
-        int j = findMethod(nums, i+1, currVal +1);
-        if(j != -1) {
-            len = Math.max(len, 1 + solve(j, 0 , nums));
-        }
-
-        j = findMethod(nums, i + 1, currVal);
-        if(j != -1) {
-            len = Math.max(len, 1 + solve(j, 1, nums));
-        }
-
-        return memo[i][inc] = len;
-    }
     public int maxSelectedElements(int[] nums) {
-        n = nums.length;
-        Arrays.sort(nums);
-
-        memo = new int[n+2][2];
-
-        for(int[] row : memo) {
-            Arrays.fill(row, -1);
+         Arrays.sort(nums);
+        int max = nums[nums.length - 1];
+        int[] dp = new int[max + 3];
+        int best = 0;
+        for (int a : nums) {
+            int b = a + 1;
+            dp[b] = Math.max(dp[b], dp[b - 1] + 1);
+            dp[a] = Math.max(dp[a], dp[a - 1] + 1);
+            best = Math.max(best, Math.max(dp[a], dp[b]));
         }
-
-        int result = 1;
-
-        for(int i = 0; i < n; i++) {
-            result = Math.max(result, Math.max(solve(i, 0, nums), solve(i, 1, nums)));
-
-        }
-
-        return result;
-
-
+        return best;
     }
 }
