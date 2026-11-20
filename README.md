@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kuldeepsingKD/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kuldeepsingKD/dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/kuldeepsingKD/dsa/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kuldeepsingKD/dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/kuldeepsingKD/dsa/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/kuldeepsingKD/dsa/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/kuldeepsingKD/dsa/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kuldeepsingKD/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kuldeepsingKD/dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/kuldeepsingKD/dsa/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kuldeepsingKD/dsa/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/kuldeepsingKD/dsa/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/kuldeepsingKD/dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kuldeepsingKD/dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kuldeepsingKD/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kuldeepsingKD/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
