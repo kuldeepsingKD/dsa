@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kuldeepsingKD/dsa/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/kuldeepsingKD/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kuldeepsingKD/dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kuldeepsingKD/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0848-shifting-letters](https://github.com/kuldeepsingKD/dsa/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kuldeepsingKD/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kuldeepsingKD/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1856-maximum-subarray-min-product](https://github.com/kuldeepsingKD/dsa/tree/master/1856-maximum-subarray-min-product) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/kuldeepsingKD/dsa/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/kuldeepsingKD/dsa/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/kuldeepsingKD/dsa/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/kuldeepsingKD/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kuldeepsingKD/dsa/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kuldeepsingKD/dsa/tree/master/1563-stone-game-v) |
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/kuldeepsingKD/dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/1352-product-of-the-last-k-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1070,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kuldeepsingKD/dsa/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kuldeepsingKD/dsa/tree/master/1352-product-of-the-last-k-numbers) |
 ## Minimax
 |  |
 | ------- |
