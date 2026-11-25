@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/kuldeepsingKD/dsa/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/kuldeepsingKD/dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kuldeepsingKD/dsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kuldeepsingKD/dsa/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/kuldeepsingKD/dsa/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kuldeepsingKD/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/3934-smallest-unique-subarray) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/kuldeepsingKD/dsa/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/kuldeepsingKD/dsa/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Greedy
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kuldeepsingKD/dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kuldeepsingKD/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/kuldeepsingKD/dsa/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/3934-smallest-unique-subarray) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/kuldeepsingKD/dsa/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## String
 |  |
@@ -1197,4 +1200,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/kuldeepsingKD/dsa/tree/master/0480-sliding-window-median) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
