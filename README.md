@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kuldeepsingKD/dsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kuldeepsingKD/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kuldeepsingKD/dsa/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/kuldeepsingKD/dsa/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kuldeepsingKD/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kuldeepsingKD/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/kuldeepsingKD/dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kuldeepsingKD/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/kuldeepsingKD/dsa/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kuldeepsingKD/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kuldeepsingKD/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/kuldeepsingKD/dsa/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Topological Sort
