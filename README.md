@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/kuldeepsingKD/dsa/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kuldeepsingKD/dsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/kuldeepsingKD/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kuldeepsingKD/dsa/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/kuldeepsingKD/dsa/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/kuldeepsingKD/dsa/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kuldeepsingKD/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/kuldeepsingKD/dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/kuldeepsingKD/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-word-squares-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3799-word-squares-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kuldeepsingKD/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/kuldeepsingKD/dsa/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/kuldeepsingKD/dsa/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Prefix Sum
 |  |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kuldeepsingKD/dsa/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kuldeepsingKD/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/kuldeepsingKD/dsa/tree/master/3620-network-recovery-pathways) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kuldeepsingKD/dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
